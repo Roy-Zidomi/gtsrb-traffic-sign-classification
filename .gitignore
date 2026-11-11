@@ -1,0 +1,8 @@
+hasil_colab/*
+!hasil_colab/BACA_SAYA.txt
+.backup/
+submission.zip
+*.keras
+.tfjs_env/
+__pycache__/
+.ipynb_checkpoints/

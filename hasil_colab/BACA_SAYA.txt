@@ -1,0 +1,8 @@
+Taruh hasil dari Google Colab di folder ini (setelah "Run all" selesai tanpa error):
+
+1. notebook.ipynb              -> Colab: File > Download > Download .ipynb
+2. notebook.py                 -> Colab: File > Download > Download .py
+3. hasil_colab_artifacts.zip   -> terunduh otomatis oleh sel "Konversi Model"
+                                  (atau panel Files > klik kanan > Download)
+
+Lalu di Claude Code ketik: /finalisasi
